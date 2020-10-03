@@ -1,0 +1,16 @@
+{
+  "name": "atomic-urls",
+  "version": "0.0.1-alpha-1",
+  "description": "Build URLs based on templates",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "test": "echo \"No tests\""
+  },
+  "keywords": [
+    "url-builder",
+    "url"
+  ],
+  "author": "maurocen",
+  "license": "MIT"
+}
