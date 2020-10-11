@@ -4,7 +4,7 @@ const ROOT_URL = 'www.youtube.com';
 const VIDEO_URL = '{{YOUTUBE}}/watch?v={{VIDEO_ID}}'
 const YOUTUBE = '{{PROTOCOL}}://{{ROOT_URL}}'
 
-module.exports = {
+export default {
   PROTOCOL,
   ROOT_URL,
   YOUTUBE,

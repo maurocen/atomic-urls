@@ -5,7 +5,7 @@ const GROUP_URL = '{{FACEBOOK}}/groups/{{GROUP_ID}}';
 const FACEBOOK = '{{PROTOCOL}}://{{ROOT_URL}}';
 const POST_URL = '{{PROFILE_URL}}/{{POST_TYPE}}/{{POST_ID}}';
 
-module.exports = {
+export default {
   PROTOCOL,
   ROOT_URL,
   FACEBOOK,

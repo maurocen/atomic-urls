@@ -6,7 +6,7 @@ const PROTOCOL = 'https';
 const ROOT_URL = 'www.twitter.com';
 const TWEET_URL = '{{PROFILE_URL}}/status/{{TWEET_ID}}';
 
-module.exports = {
+export default {
   PROTOCOL,
   ROOT_URL,
   TWITTER,
